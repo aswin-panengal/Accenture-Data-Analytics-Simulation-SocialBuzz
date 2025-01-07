@@ -1,0 +1,2 @@
+## Accenture Data Analytics & Visualization - Social Buzz Job Simulation
+This repository contains my work on the Accenture Data Analytics & Visualization Job Simulation, where I applied data analysis and visualization skills to help Social Buzz. The goal was to analyze user data, identify content trends, and provide actionable insights to support the company's scaling efforts and preparation for an IPO.
